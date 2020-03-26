@@ -1,5 +1,5 @@
 def hello
-  p "hello, GitHub. fcfckk
+  p "hello, GitHub. fc
   "
 end
 
